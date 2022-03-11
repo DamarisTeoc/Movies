@@ -1,0 +1,89 @@
+{
+  "peliculas": [
+    {
+      "id": 4,
+      "nombre": "Interestellar",
+      "director": "Cristopher Nolan",
+      "clasificacion": "Ciencia ficción",
+      "img":"../imagenes/descarga.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Mulan",
+      "director": "Niki Caro",
+      "clasificacion": "Acción",
+      "img":"../imagenes/Mulan.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Mamma Mia!",
+      "director": "Phyllida Lloyd",
+      "clasificacion": "Musical",
+      "img":"../imagenes/Mammamia.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "La purga", 
+      "director": "James DeMonaco",
+      "clasificacion": "Terror",
+      "img":"../imagenes/lapurga.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Malditos bastardos",
+      "director": "Quentin Tarantino",
+      "clasificacion": "Bélico/Acción",
+      "img":"../imagenes/malditosbastardos.jpg"
+    },
+    {
+      "id": 10,
+      "nombre": "Raya y el último dragón",
+      "director": "Carlos López Estrada, Don Hall",
+      "clasificacion": "Bélico/Acción",
+      "img": "../imagenes/Raya.jpg"
+    },
+    {
+      "id": 11,
+      "nombre": "Shutter Island",
+      "director": "Martin Scorsese",
+      "clasificacion": "Suspenso/Misterio",
+      "img":"../imagenes/shutterisland.jpg"
+  
+    },
+    {
+      "id": 12,
+      "nombre": "Begin again",
+      "director": "John Carney",
+      "clasificacion": "Romance",
+      "img": "../imagenes/beginagain.jpg"
+    },
+    {
+      "id": 13,
+      "nombre": "Prisioneros",
+      "director": "Denis Villeneuve",
+      "clasificacion": "Suspenso/Crimen",
+      "img":"../imagenes/Prisioneros.jpg"
+    },
+    {
+      "id": 14,
+      "nombre": "Joker",
+      "director": "Todd Phillips",
+      "clasificacion": "Drama/Crimen",
+      "img": "../imagenes/Joker.jpg"
+    },
+    {
+      "id": 15,
+      "nombre": "Soul",
+      "director": "Pete Docter, Kemp Power",
+      "clasificacion": "Infantil/Comedia",
+      "img":"../imagenes/Soul.jpg"
+    },
+    {
+      "id": 16,
+      "nombre": "Million Dollar Baby",
+      "director": "Clint Eastwood",
+      "clasificacion": "Drama/Deportes",
+      "img":"../imagenes/Milliom.jpg"
+    }
+  ]
+}
