@@ -5,49 +5,49 @@
       "nombre": "Interestellar",
       "director": "Cristopher Nolan",
       "clasificacion": "Ciencia ficción",
-      "img":"../imagenes/descarga.jpg"
+      "img": "https://pics.filmaffinity.com/Interstellar-366875261-large.jpg"
     },
     {
       "id": 5,
       "nombre": "Mulan",
       "director": "Niki Caro",
       "clasificacion": "Acción",
-      "img":"../imagenes/Mulan.jpg"
+      "img": "https://static.wikia.nocookie.net/disney/images/e/e9/Mulan_%282020%2C_Disney%2B_Original_Poster%29.jpg/revision/latest?cb=20200919141917&path-prefix=es"
     },
     {
       "id": 6,
       "nombre": "Mamma Mia!",
       "director": "Phyllida Lloyd",
       "clasificacion": "Musical",
-      "img":"../imagenes/Mammamia.jpg"
+      "img": "https://pics.filmaffinity.com/Mamma_Mia_La_pel_cula-326443202-large.jpg"
     },
     {
       "id": 7,
       "nombre": "La purga", 
       "director": "James DeMonaco",
       "clasificacion": "Terror",
-      "img":"../imagenes/lapurga.jpg"
+      "img": "https://pics.filmaffinity.com/The_Purge_La_noche_de_las_bestias-971216933-large.jpg"
     },
     {
       "id": 9,
       "nombre": "Malditos bastardos",
       "director": "Quentin Tarantino",
       "clasificacion": "Bélico/Acción",
-      "img":"../imagenes/malditosbastardos.jpg"
+      "img": "https://www.aceprensa.com/wp-content/uploads/elementor/thumbs/16869-0-pb2l8qzeup9a734rgfprk0m2t5ojsgzg98z19dtudc.jpg"
     },
     {
       "id": 10,
       "nombre": "Raya y el último dragón",
       "director": "Carlos López Estrada, Don Hall",
       "clasificacion": "Bélico/Acción",
-      "img": "../imagenes/Raya.jpg"
+      "img": "https://lumiere-a.akamaihd.net/v1/images/p_rayaandthelastdragon_es_06f8daf0.jpeg?region=0%2C0%2C540%2C810"
     },
     {
       "id": 11,
       "nombre": "Shutter Island",
       "director": "Martin Scorsese",
       "clasificacion": "Suspenso/Misterio",
-      "img":"../imagenes/shutterisland.jpg"
+      "img": "https://www.ecartelera.com/carteles/3100/3148/001_m.jpg"
   
     },
     {
@@ -55,35 +55,35 @@
       "nombre": "Begin again",
       "director": "John Carney",
       "clasificacion": "Romance",
-      "img": "../imagenes/beginagain.jpg"
+      "img": "https://pics.filmaffinity.com/Begin_Again-274155842-large.jpg"
     },
     {
       "id": 13,
       "nombre": "Prisioneros",
       "director": "Denis Villeneuve",
       "clasificacion": "Suspenso/Crimen",
-      "img":"../imagenes/Prisioneros.jpg"
+      "img": "https://pics.filmaffinity.com/Prisioneros-721879978-large.jpg"
     },
     {
       "id": 14,
       "nombre": "Joker",
       "director": "Todd Phillips",
       "clasificacion": "Drama/Crimen",
-      "img": "../imagenes/Joker.jpg"
+      "img": "https://pics.filmaffinity.com/Joker-790658206-large.jpg"
     },
     {
       "id": 15,
       "nombre": "Soul",
       "director": "Pete Docter, Kemp Power",
       "clasificacion": "Infantil/Comedia",
-      "img":"../imagenes/Soul.jpg"
+      "img": "https://pics.filmaffinity.com/Soul-993368298-large.jpg"
     },
     {
       "id": 16,
       "nombre": "Million Dollar Baby",
       "director": "Clint Eastwood",
       "clasificacion": "Drama/Deportes",
-      "img":"../imagenes/Milliom.jpg"
+      "img": "https://pics.filmaffinity.com/Million_Dollar_Baby-342154413-large.jpg"
     }
   ]
 }
